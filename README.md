@@ -4,6 +4,13 @@ An event &amp; repository of open source related research specific to the city o
 
 _Please help us edit and expand this list through pull requests!_
 
+## Notable Events
+
+### 2019
+
+* August 29th, 2019: Berlin Open Source Salon
+* October 22-24, 2019:[ApacheCon Europe](https://aceu19.apachecon.com/)
+
 ## Meetups
 
 _A list of all of the open source related meetups in Berlin_
