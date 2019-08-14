@@ -9,7 +9,7 @@ _Please help us edit and expand this list through pull requests!_
 ### 2019
 
 * August 29th, 2019: Berlin Open Source Salon
-* October 22-24, 2019:[ApacheCon Europe](https://aceu19.apachecon.com/)
+* October 22-24, 2019: [ApacheCon Europe](https://aceu19.apachecon.com/)
 
 ## Meetups
 
