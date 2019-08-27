@@ -31,6 +31,10 @@ https://www.meetup.com/Ocean_Protocol_Berlin/
 
 https://www.meetup.com/parity/
 
+### Elasticsearch Berlin
+
+https://www.meetup.com/Elasticsearch-Berlin/
+
 ## Companies & Organizations
 
 _What companies publicly build / use / sponsor open source software in Berlin? What open-source startups are there in Berlin?_
@@ -61,6 +65,11 @@ Open source conversational AI.
 
 * Rasa - Open source machine learning framework to automate text- and voice-based conversations https://github.com/RasaHQ/rasa
 
+### Elastic
+
+https://elastic.co
+
+German offices in Berlin and Munich.
 
 ### Ethereum Foundation Berlin Office
 
